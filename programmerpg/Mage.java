@@ -9,6 +9,6 @@ package programmerpg;
  *
  * @author Formation
  */
-public class Mage {
+public class Mage extends Personnage{
     
 }
