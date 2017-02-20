@@ -9,6 +9,10 @@ package programmerpg;
  *
  * @author Formation
  */
-public class Guerrier {
+public class Guerrier extends Personnage{
     
+   public void attaque(){
+    
+       System.out.println("BULIAAAAAAAAAAAAAA !!!!!!");
+}
 }
