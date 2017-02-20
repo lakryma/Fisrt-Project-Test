@@ -9,6 +9,8 @@ package programmerpg;
  *
  * @author Formation
  */
-public class Mage {
-    
+public class Mage extends Personnage {
+    public void decrisToi(){
+        System.out.println("wesh")
+    }
 }
