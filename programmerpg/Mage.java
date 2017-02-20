@@ -9,8 +9,13 @@ package programmerpg;
  *
  * @author Formation
  */
+<<<<<<< HEAD
 public class Mage extends Personnage {
     public void decrisToi(){
         System.out.println("wesh")
     }
+=======
+public class Mage extends Personnage{
+    
+>>>>>>> develop
 }
